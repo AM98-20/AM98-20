@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: alexmrtnz902@gmail.com
 - ⚡ Fun fact: I'm a TLotR universe Fan.
 
+- Live Apps
+  1. https://shrinkit-8009.onrender.com/app
+
