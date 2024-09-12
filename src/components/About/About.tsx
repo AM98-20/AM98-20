@@ -21,12 +21,12 @@ export function About() {
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.1 * 1000}>
           <p>
-          Hi there! As a website developer, my name is Alexander, and I'm passionate about making unique online experiences for my customers. My skill set includes HTML, CSS, JavaScript, and React, so I can make any website idea a reality.            Hello there! I'm Alexander, a website developer with a passion for creating custom online experiences for my clients. With a skill set including HTML, CSS, JavaScript, and React, I have the tools to bring any website vision to life.
+          Hi there! As a website developer, my name is Alexander, and I'm passionate about making unique online experiences for my customers. My skill set includes HTML, CSS, JavaScript, and React, so I can make any website idea a reality.
           </p>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.2 * 1000} style={{ marginTop: "2rem", marginBottom: "2rem" }}>
           <p>
-          However, I offer more than simply custom programming; in addition, I'm skilled in using content management systems (CMS) like WordPress and Shopify, which let my clients easily maintain and update their websites.
+          However, I offer more than simply custom programming; in addition, I'm skilled in using content management systems (CMS) like WordPress, which let my clients easily maintain and update their websites.
           </p>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.3 * 1000}>
