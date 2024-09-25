@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/am98-20/static/css/main.46961403.css",
-    "main.js": "/am98-20/static/js/main.3b95ce3b.js",
+    "main.js": "/am98-20/static/js/main.2215f944.js",
     "static/media/Hello.gif": "/am98-20/static/media/Hello.d93720933c608f6178fb.gif",
     "static/media/Kevin Alexander Martinez - Resume-1.pdf": "/am98-20/static/media/Kevin Alexander Martinez - Resume-1.402b30da91ebba636b07.pdf",
     "static/media/illustration.svg": "/am98-20/static/media/illustration.bc12a8388763b7b3fe2d80dd68f6b2f8.svg",
@@ -24,10 +24,10 @@
     "static/media/js-icon.svg": "/am98-20/static/media/js-icon.2d25723e91c8a9e057ae447ae6a73ecb.svg",
     "static/media/vue-icon.svg": "/am98-20/static/media/vue-icon.7219cc0384993fc067ee20c94a66b1e9.svg",
     "main.46961403.css.map": "/am98-20/static/css/main.46961403.css.map",
-    "main.3b95ce3b.js.map": "/am98-20/static/js/main.3b95ce3b.js.map"
+    "main.2215f944.js.map": "/am98-20/static/js/main.2215f944.js.map"
   },
   "entrypoints": [
     "static/css/main.46961403.css",
-    "static/js/main.3b95ce3b.js"
+    "static/js/main.2215f944.js"
   ]
 }
